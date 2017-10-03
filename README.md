@@ -4,3 +4,6 @@
 	2. ReduxJs
 	3. MongoDB
 	4. NodeJs
+
+# Install Dependency
+ 	1. npm install --save redux react-redux redux-thunk
